@@ -1,1 +1,1 @@
-# -IBM_Quantum_Challenge_Fall_2022
+# IBM_Quantum_Challenge_Fall_2022
