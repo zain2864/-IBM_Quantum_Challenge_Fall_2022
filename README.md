@@ -1,17 +1,17 @@
 # IBM_Quantum_Challenge_Fall_2022
 
 
-The challenge will start with an introduction of Qiskit primitives and the programming model it describes, while drawing parallels to its interface with the Qiskit Runtime service and its features.
-This will proceed with the succeeding notebooks that will serve as a guide for constructing and building upon a few common quantum computational algorithms using this primitive construct.
-Each notebook slowly ramps up the complexity of the routines built and introduces features within Qiskit Primitives and the Qiskit Runtime service.
-Each exercise is presented as a Jupyter notebook hosted on the IBM Quantum Lab site. Complete all parts in each lab and pass the graders to complete the exercise.
+*The challenge will start with an introduction of Qiskit primitives and the programming model it describes, while drawing parallels to its interface with the Qiskit Runtime service and its features.*
+*This will proceed with the succeeding notebooks that will serve as a guide for constructing and building upon a few common quantum computational algorithms using this primitive construct.*
+*Each notebook slowly ramps up the complexity of the routines built and introduces features within Qiskit Primitives and the Qiskit Runtime service.*
+
 
 
 Lab 1 - Introduction to Primitives on Qiskit Runtime
-Do you know that there is a way to maximize the quantum workflow in Qiskit? To execute quantum circuits, all of them are going through the cloud environment.
-Especially, there is an obvious delay when you are using an algorithm which requires feedback loops between classical and quantum hardware. In this kind of situation, we can expect a substantial speed-up on primitives with Qiskit Runtime.
-In exercise 1 we are going to learn what Qiskit Runtime and primitives are and how to use them in a proper way. We also comprehend the exact meaning of error mitigation and simple prologues of its techniques.
-As this exercise is including the primitives and the error mitigation techniques, it will be a basement for solving all the following exercises. Please free to explore as much as possible along with your own spaceship!
+*Do you know that there is a way to maximize the quantum workflow in Qiskit? To execute quantum circuits, all of them are going through the cloud environment.
+Especially, there is an obvious delay when you are using an algorithm which requires feedback loops between classical and quantum hardware. In this kind of situation, we can expect a substantial speed-up on primitives with Qiskit Runtime.*
+*In exercise 1 we are going to learn what Qiskit Runtime and primitives are and how to use them in a proper way. We also comprehend the exact meaning of error mitigation and simple prologues of its techniques.*
+*As this exercise is including the primitives and the error mitigation techniques, it will be a basement for solving all the following exercises. Please free to explore as much as possible along with your own spaceship!*
 
 Lab 2 - Quantum Kernel Learning with Qiskit Runtime
 Throwing of machine learning into quantum computing creates interest areas of research that use the principles of quantum mechanics to enhance machine learning or vice versa.
