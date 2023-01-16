@@ -1,7 +1,7 @@
 # IBM_Quantum_Challenge_Fall_2022
 
 
-*The challenge will start with an introduction of Qiskit primitives and the programming model it describes, while drawing parallels to its interface with the Qiskit Runtime service and its features.*
+* The challenge will start with an introduction of Qiskit primitives and the programming model it describes, while drawing parallels to its interface with the Qiskit Runtime service and its features.
 *This will proceed with the succeeding notebooks that will serve as a guide for constructing and building upon a few common quantum computational algorithms using this primitive construct.*
 *Each notebook slowly ramps up the complexity of the routines built and introduces features within Qiskit Primitives and the Qiskit Runtime service.*
 
