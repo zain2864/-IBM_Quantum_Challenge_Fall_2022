@@ -1,4 +1,4 @@
-## IBM_Quantum_Challenge_Fall_2022
+## IBM Quantum Challenge Fall 2022
 
 
 * The challenge will start with an introduction of Qiskit primitives and the programming model it describes, while drawing parallels to its interface with the Qiskit Runtime service and its features.
