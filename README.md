@@ -1,5 +1,9 @@
 ## IBM Quantum Challenge Fall 2022
 
+#### Overview:
+•	Explored Primitives on Qiskit Runtime to apply error mitigation techniques to machine learning application problems, such as quantum kernel learning
+•	Utilized VQE to optimize convergence for the Traveling salesman problem, by building problem specific parametrized quantum circuits
+•	Constructed routines to compute molecule energies, total reaction energies, and the excited energy wavelength spectrum using VQE and VQD
 
 * The challenge will start with an introduction of Qiskit primitives and the programming model it describes, while drawing parallels to its interface with the Qiskit Runtime service and its features.
 * This will proceed with the succeeding notebooks that will serve as a guide for constructing and building upon a few common quantum computational algorithms using this primitive construct.
